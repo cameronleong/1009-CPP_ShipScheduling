@@ -44,9 +44,5 @@ public class Customer {
 		this.company = company;
 	}
 	
-	public void updateThis(){
-		this.age = 1;
-	}
-	
 	
 }
