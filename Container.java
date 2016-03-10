@@ -37,6 +37,10 @@ public class Container {
 		this.specialProperty = specialProperty;
 	}
 	
+	public void updateThis(){
+		this.number = 1;
+	}
+	
 	
 }
 	
